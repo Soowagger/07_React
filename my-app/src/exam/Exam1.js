@@ -10,7 +10,6 @@ import { Component } from "react";
 - 컴포넌트명은 보통 대문자로 작성
 
 1. 클래스형 컴포넌트 : React.Component 클래스를 상속받아 구현
-
 * 장점 
 - 생명주기 메서드 제공 : componentDidMount, componentDidUpdate, componentWillUnmount...
     -> 컴포넌트의 생명주기 동안 특정 동작을 쉽게 구현할 수 있음
