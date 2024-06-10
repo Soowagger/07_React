@@ -5,7 +5,7 @@
 function Exam6_1(props) {
 
     const isLogin = props.isLogin; // 부모에게 전달받은 props 중 isLogin 
-
+    
     // if(isLogin) {
     //     return <h1>Welcome back!</h1>
     // } else {
